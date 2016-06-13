@@ -1,2 +1,2 @@
 # Test
-First GitHuba (and git) steps
+First GitHub (and git) steps
